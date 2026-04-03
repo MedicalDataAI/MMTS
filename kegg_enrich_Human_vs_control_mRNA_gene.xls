@@ -1,0 +1,193 @@
+Pathway ID	Pathway Description	Gene Num	Ratio in study	Ratio in pop	Rich factor	Pvalue	Padjust
+map00310	Lysine degradation	9	9/1608	9/1608	1.0	1.0	1.0
+map00311	Penicillin and cephalosporin biosynthesis	1	1/1608	1/1608	1.0	1.0	1.0
+map00260	Glycine, serine and threonine metabolism	30	30/1608	30/1608	1.0	1.0	1.0
+map00550	Peptidoglycan biosynthesis	26	26/1608	26/1608	1.0	1.0	1.0
+map00552	Teichoic acid biosynthesis	23	23/1608	23/1608	1.0	1.0	1.0
+map00250	Alanine, aspartate and glutamate metabolism	20	20/1608	20/1608	1.0	1.0	1.0
+map00061	Fatty acid biosynthesis	14	14/1608	14/1608	1.0	1.0	1.0
+map00790	Folate biosynthesis	22	22/1608	22/1608	1.0	1.0	1.0
+map00791	Atrazine degradation	3	3/1608	3/1608	1.0	1.0	1.0
+map03010	Ribosome	57	57/1608	57/1608	1.0	1.0	1.0
+map00410	beta-Alanine metabolism	5	5/1608	5/1608	1.0	1.0	1.0
+map00650	Butanoate metabolism	18	18/1608	18/1608	1.0	1.0	1.0
+map00860	Porphyrin metabolism	16	16/1608	16/1608	1.0	1.0	1.0
+map00710	Carbon fixation by Calvin cycle	14	14/1608	14/1608	1.0	1.0	1.0
+map04920	Adipocytokine signaling pathway	1	1/1608	1/1608	1.0	1.0	1.0
+map04621	NOD-like receptor signaling pathway	1	1/1608	1/1608	1.0	1.0	1.0
+map04626	Plant-pathogen interaction	2	2/1608	2/1608	1.0	1.0	1.0
+map05111	Biofilm formation - Vibrio cholerae	7	7/1608	7/1608	1.0	1.0	1.0
+map03070	Bacterial secretion system	13	13/1608	13/1608	1.0	1.0	1.0
+map00300	Lysine biosynthesis	12	12/1608	12/1608	1.0	1.0	1.0
+map00780	Biotin metabolism	11	11/1608	11/1608	1.0	1.0	1.0
+map05132	Salmonella infection	2	2/1608	2/1608	1.0	1.0	1.0
+map00785	Lipoic acid metabolism	20	20/1608	20/1608	1.0	1.0	1.0
+map00542	O-Antigen repeat unit biosynthesis	1	1/1608	1/1608	1.0	1.0	1.0
+map00541	Biosynthesis of various nucleotide sugars	12	12/1608	12/1608	1.0	1.0	1.0
+map00074	Mycolic acid biosynthesis	2	2/1608	2/1608	1.0	1.0	1.0
+map00071	Fatty acid degradation	10	10/1608	10/1608	1.0	1.0	1.0
+map00261	Monobactam biosynthesis	5	5/1608	5/1608	1.0	1.0	1.0
+map00660	C5-Branched dibasic acid metabolism	10	10/1608	10/1608	1.0	1.0	1.0
+map00380	Tryptophan metabolism	10	10/1608	10/1608	1.0	1.0	1.0
+map04724	Glutamatergic synapse	1	1/1608	1/1608	1.0	1.0	1.0
+map00983	Drug metabolism - other enzymes	10	10/1608	10/1608	1.0	1.0	1.0
+map00460	Cyanoamino acid metabolism	3	3/1608	3/1608	1.0	1.0	1.0
+map05120	Epithelial cell signaling in Helicobacter pylori infection	3	3/1608	3/1608	1.0	1.0	1.0
+map01310	Nitrogen cycle	5	5/1608	5/1608	1.0	1.0	1.0
+map00970	Aminoacyl-tRNA biosynthesis	25	25/1608	25/1608	1.0	1.0	1.0
+map00564	Glycerophospholipid metabolism	19	19/1608	19/1608	1.0	1.0	1.0
+map00572	Arabinogalactan biosynthesis - Mycobacterium	1	1/1608	1/1608	1.0	1.0	1.0
+map00997	Biosynthesis of various other secondary metabolites	10	10/1608	10/1608	1.0	1.0	1.0
+map03060	Protein export	16	16/1608	16/1608	1.0	1.0	1.0
+map01502	Vancomycin resistance	7	7/1608	7/1608	1.0	1.0	1.0
+map01503	Cationic antimicrobial peptide (CAMP) resistance	13	13/1608	13/1608	1.0	1.0	1.0
+map00270	Cysteine and methionine metabolism	27	27/1608	27/1608	1.0	1.0	1.0
+map00040	Pentose and glucuronate interconversions	9	9/1608	9/1608	1.0	1.0	1.0
+map04016	MAPK signaling pathway - plant	4	4/1608	4/1608	1.0	1.0	1.0
+map04011	MAPK signaling pathway - yeast	2	2/1608	2/1608	1.0	1.0	1.0
+map00999	Biosynthesis of various plant secondary metabolites	3	3/1608	3/1608	1.0	1.0	1.0
+map04013	MAPK signaling pathway - fly	2	2/1608	2/1608	1.0	1.0	1.0
+map00908	Zeatin biosynthesis	1	1/1608	1/1608	1.0	1.0	1.0
+map03410	Base excision repair	10	10/1608	10/1608	1.0	1.0	1.0
+map01250	Biosynthesis of nucleotide sugars	21	21/1608	21/1608	1.0	1.0	1.0
+map00670	One carbon pool by folate	20	20/1608	20/1608	1.0	1.0	1.0
+map03008	Ribosome biogenesis in eukaryotes	1	1/1608	1/1608	1.0	1.0	1.0
+map00770	Pantothenate and CoA biosynthesis	18	18/1608	18/1608	1.0	1.0	1.0
+map04919	Thyroid hormone signaling pathway	2	2/1608	2/1608	1.0	1.0	1.0
+map00960	Tropane, piperidine and pyridine alkaloid biosynthesis	2	2/1608	2/1608	1.0	1.0	1.0
+map00470	D-Amino acid metabolism	15	15/1608	15/1608	1.0	1.0	1.0
+map00966	Glucosinolate biosynthesis	2	2/1608	2/1608	1.0	1.0	1.0
+map05134	Legionellosis	3	3/1608	3/1608	1.0	1.0	1.0
+map00830	Retinol metabolism	1	1/1608	1/1608	1.0	1.0	1.0
+map05130	Pathogenic Escherichia coli infection	1	1/1608	1/1608	1.0	1.0	1.0
+map04940	Type I diabetes mellitus	1	1/1608	1/1608	1.0	1.0	1.0
+map04727	GABAergic synapse	1	1/1608	1/1608	1.0	1.0	1.0
+map04122	Sulfur relay system	9	9/1608	9/1608	1.0	1.0	1.0
+map00980	Metabolism of xenobiotics by cytochrome P450	1	1/1608	1/1608	1.0	1.0	1.0
+map00565	Ether lipid metabolism	1	1/1608	1/1608	1.0	1.0	1.0
+map05152	Tuberculosis	3	3/1608	3/1608	1.0	1.0	1.0
+map05150	Staphylococcus aureus infection	38	38/1608	38/1608	1.0	1.0	1.0
+map00561	Glycerolipid metabolism	16	16/1608	16/1608	1.0	1.0	1.0
+map00982	Drug metabolism - cytochrome P450	1	1/1608	1/1608	1.0	1.0	1.0
+map00981	Insect hormone biosynthesis	2	2/1608	2/1608	1.0	1.0	1.0
+map00562	Inositol phosphate metabolism	6	6/1608	6/1608	1.0	1.0	1.0
+map00051	Fructose and mannose metabolism	17	17/1608	17/1608	1.0	1.0	1.0
+map00053	Ascorbate and aldarate metabolism	5	5/1608	5/1608	1.0	1.0	1.0
+map00052	Galactose metabolism	18	18/1608	18/1608	1.0	1.0	1.0
+map04068	FoxO signaling pathway	4	4/1608	4/1608	1.0	1.0	1.0
+map00362	Benzoate degradation	8	8/1608	8/1608	1.0	1.0	1.0
+map00361	Chlorocyclohexane and chlorobenzene degradation	2	2/1608	2/1608	1.0	1.0	1.0
+map00360	Phenylalanine metabolism	3	3/1608	3/1608	1.0	1.0	1.0
+map02010	ABC transporters	84	84/1608	84/1608	1.0	1.0	1.0
+map05418	Fluid shear stress and atherosclerosis	2	2/1608	2/1608	1.0	1.0	1.0
+map03018	RNA degradation	15	15/1608	15/1608	1.0	1.0	1.0
+map05417	Lipid and atherosclerosis	3	3/1608	3/1608	1.0	1.0	1.0
+map05415	Diabetic cardiomyopathy	5	5/1608	5/1608	1.0	1.0	1.0
+map05230	Central carbon metabolism in cancer	11	11/1608	11/1608	1.0	1.0	1.0
+map04066	HIF-1 signaling pathway	10	10/1608	10/1608	1.0	1.0	1.0
+map05205	Proteoglycans in cancer	1	1/1608	1/1608	1.0	1.0	1.0
+map00680	Methane metabolism	19	19/1608	19/1608	1.0	1.0	1.0
+map04978	Mineral absorption	2	2/1608	2/1608	1.0	1.0	1.0
+map00280	Valine, leucine and isoleucine degradation	12	12/1608	12/1608	1.0	1.0	1.0
+map00760	Nicotinate and nicotinamide metabolism	8	8/1608	8/1608	1.0	1.0	1.0
+map02026	Biofilm formation - Escherichia coli	3	3/1608	3/1608	1.0	1.0	1.0
+map02024	Quorum sensing	62	62/1608	62/1608	1.0	1.0	1.0
+map02025	Biofilm formation - Pseudomonas aeruginosa	2	2/1608	2/1608	1.0	1.0	1.0
+map00910	Nitrogen metabolism	12	12/1608	12/1608	1.0	1.0	1.0
+map02020	Two-component system	80	80/1608	80/1608	1.0	1.0	1.0
+map04975	Fat digestion and absorption	2	2/1608	2/1608	1.0	1.0	1.0
+map04714	Thermogenesis	3	3/1608	3/1608	1.0	1.0	1.0
+map05022	Pathways of neurodegeneration - multiple diseases	4	4/1608	4/1608	1.0	1.0	1.0
+map04152	AMPK signaling pathway	1	1/1608	1/1608	1.0	1.0	1.0
+map05165	Human papillomavirus infection	1	1/1608	1/1608	1.0	1.0	1.0
+map03430	Mismatch repair	17	17/1608	17/1608	1.0	1.0	1.0
+map00511	Other glycan degradation	2	2/1608	2/1608	1.0	1.0	1.0
+map00350	Tyrosine metabolism	4	4/1608	4/1608	1.0	1.0	1.0
+map00020	Citrate cycle (TCA cycle)	23	23/1608	23/1608	1.0	1.0	1.0
+map00750	Vitamin B6 metabolism	4	4/1608	4/1608	1.0	1.0	1.0
+map04070	Phosphatidylinositol signaling system	3	3/1608	3/1608	1.0	1.0	1.0
+map00400	Phenylalanine, tyrosine and tryptophan biosynthesis	19	19/1608	19/1608	1.0	1.0	1.0
+map04075	Plant hormone signal transduction	1	1/1608	1/1608	1.0	1.0	1.0
+map01501	beta-Lactam resistance	9	9/1608	9/1608	1.0	1.0	1.0
+map00450	Selenocompound metabolism	7	7/1608	7/1608	1.0	1.0	1.0
+map00520	Amino sugar and nucleotide sugar metabolism	28	28/1608	28/1608	1.0	1.0	1.0
+map00401	Novobiocin biosynthesis	3	3/1608	3/1608	1.0	1.0	1.0
+map05146	Amoebiasis	2	2/1608	2/1608	1.0	1.0	1.0
+map00290	Valine, leucine and isoleucine biosynthesis	13	13/1608	13/1608	1.0	1.0	1.0
+map00907	Pinene, camphor and geraniol degradation	1	1/1608	1/1608	1.0	1.0	1.0
+map00906	Carotenoid biosynthesis	6	6/1608	6/1608	1.0	1.0	1.0
+map00592	alpha-Linolenic acid metabolism	1	1/1608	1/1608	1.0	1.0	1.0
+map00903	Limonene degradation	2	2/1608	2/1608	1.0	1.0	1.0
+map03320	PPAR signaling pathway	3	3/1608	3/1608	1.0	1.0	1.0
+map00900	Terpenoid backbone biosynthesis	13	13/1608	13/1608	1.0	1.0	1.0
+map05012	Parkinson disease	1	1/1608	1/1608	1.0	1.0	1.0
+map05010	Alzheimer disease	1	1/1608	1/1608	1.0	1.0	1.0
+map04922	Glucagon signaling pathway	9	9/1608	9/1608	1.0	1.0	1.0
+map05016	Huntington disease	4	4/1608	4/1608	1.0	1.0	1.0
+map05014	Amyotrophic lateral sclerosis	4	4/1608	4/1608	1.0	1.0	1.0
+map04148	Efferocytosis	1	1/1608	1/1608	1.0	1.0	1.0
+map04146	Peroxisome	7	7/1608	7/1608	1.0	1.0	1.0
+map04144	Endocytosis	2	2/1608	2/1608	1.0	1.0	1.0
+map00190	Oxidative phosphorylation	22	22/1608	22/1608	1.0	1.0	1.0
+map00220	Arginine biosynthesis	20	20/1608	20/1608	1.0	1.0	1.0
+map00340	Histidine metabolism	14	14/1608	14/1608	1.0	1.0	1.0
+map00130	Ubiquinone and other terpenoid-quinone biosynthesis	11	11/1608	11/1608	1.0	1.0	1.0
+map01232	Nucleotide metabolism	35	35/1608	35/1608	1.0	1.0	1.0
+map03420	Nucleotide excision repair	8	8/1608	8/1608	1.0	1.0	1.0
+map00500	Starch and sucrose metabolism	16	16/1608	16/1608	1.0	1.0	1.0
+map03030	DNA replication	16	16/1608	16/1608	1.0	1.0	1.0
+map00195	Photosynthesis	8	8/1608	8/1608	1.0	1.0	1.0
+map00030	Pentose phosphate pathway	22	22/1608	22/1608	1.0	1.0	1.0
+map00740	Riboflavin metabolism	10	10/1608	10/1608	1.0	1.0	1.0
+map02040	Flagellar assembly	2	2/1608	2/1608	1.0	1.0	1.0
+map00626	Naphthalene degradation	2	2/1608	2/1608	1.0	1.0	1.0
+map00627	Aminobenzoate degradation	1	1/1608	1/1608	1.0	1.0	1.0
+map00625	Chloroalkane and chloroalkene degradation	4	4/1608	4/1608	1.0	1.0	1.0
+map00622	Xylene degradation	3	3/1608	3/1608	1.0	1.0	1.0
+map00620	Pyruvate metabolism	45	45/1608	45/1608	1.0	1.0	1.0
+map00621	Dioxin degradation	1	1/1608	1/1608	1.0	1.0	1.0
+map04918	Thyroid hormone synthesis	2	2/1608	2/1608	1.0	1.0	1.0
+map01053	Biosynthesis of siderophore group nonribosomal peptides	2	2/1608	2/1608	1.0	1.0	1.0
+map01051	Biosynthesis of ansamycins	2	2/1608	2/1608	1.0	1.0	1.0
+map01523	Antifolate resistance	4	4/1608	4/1608	1.0	1.0	1.0
+map01524	Platinum drug resistance	1	1/1608	1/1608	1.0	1.0	1.0
+map04112	Cell cycle - Caulobacter	11	11/1608	11/1608	1.0	1.0	1.0
+map00230	Purine metabolism	45	45/1608	45/1608	1.0	1.0	1.0
+map03020	RNA polymerase	5	5/1608	5/1608	1.0	1.0	1.0
+map00330	Arginine and proline metabolism	10	10/1608	10/1608	1.0	1.0	1.0
+map00333	Prodigiosin biosynthesis	4	4/1608	4/1608	1.0	1.0	1.0
+map04213	Longevity regulating pathway - multiple species	6	6/1608	6/1608	1.0	1.0	1.0
+map04212	Longevity regulating pathway - worm	7	7/1608	7/1608	1.0	1.0	1.0
+map04211	Longevity regulating pathway	4	4/1608	4/1608	1.0	1.0	1.0
+map04217	Necroptosis	1	1/1608	1/1608	1.0	1.0	1.0
+map04216	Ferroptosis	1	1/1608	1/1608	1.0	1.0	1.0
+map05211	Renal cell carcinoma	1	1/1608	1/1608	1.0	1.0	1.0
+map00630	Glyoxylate and dicarboxylate metabolism	26	26/1608	26/1608	1.0	1.0	1.0
+map04981	Folate transport and metabolism	4	4/1608	4/1608	1.0	1.0	1.0
+map00920	Sulfur metabolism	10	10/1608	10/1608	1.0	1.0	1.0
+map00430	Taurine and hypotaurine metabolism	6	6/1608	6/1608	1.0	1.0	1.0
+map00730	Thiamine metabolism	11	11/1608	11/1608	1.0	1.0	1.0
+map05340	Primary immunodeficiency	1	1/1608	1/1608	1.0	1.0	1.0
+map00480	Glutathione metabolism	8	8/1608	8/1608	1.0	1.0	1.0
+map05203	Viral carcinogenesis	1	1/1608	1/1608	1.0	1.0	1.0
+map05200	Pathways in cancer	1	1/1608	1/1608	1.0	1.0	1.0
+map00521	Streptomycin biosynthesis	4	4/1608	4/1608	1.0	1.0	1.0
+map00543	Exopolysaccharide biosynthesis	4	4/1608	4/1608	1.0	1.0	1.0
+map00524	Neomycin, kanamycin and gentamicin biosynthesis	1	1/1608	1/1608	1.0	1.0	1.0
+map05208	Chemical carcinogenesis - reactive oxygen species	4	4/1608	4/1608	1.0	1.0	1.0
+map00240	Pyrimidine metabolism	28	28/1608	28/1608	1.0	1.0	1.0
+map00010	Glycolysis / Gluconeogenesis	40	40/1608	40/1608	1.0	1.0	1.0
+map02060	Phosphotransferase system (PTS)	25	25/1608	25/1608	1.0	1.0	1.0
+map03440	Homologous recombination	20	20/1608	20/1608	1.0	1.0	1.0
+map00405	Phenazine biosynthesis	2	2/1608	2/1608	1.0	1.0	1.0
+map00640	Propanoate metabolism	27	27/1608	27/1608	1.0	1.0	1.0
+map00998	Biosynthesis of various antibiotics	3	3/1608	3/1608	1.0	1.0	1.0
+map00642	Ethylbenzene degradation	1	1/1608	1/1608	1.0	1.0	1.0
+map00643	Styrene degradation	3	3/1608	3/1608	1.0	1.0	1.0
+map00720	Other carbon fixation pathways	25	25/1608	25/1608	1.0	1.0	1.0
+map04820	Cytoskeleton in muscle cells	1	1/1608	1/1608	1.0	1.0	1.0
+map04936	Alcoholic liver disease	2	2/1608	2/1608	1.0	1.0	1.0
+map04934	Cushing syndrome	1	1/1608	1/1608	1.0	1.0	1.0
+map05100	Bacterial invasion of epithelial cells	2	2/1608	2/1608	1.0	1.0	1.0
+map04930	Type II diabetes mellitus	1	1/1608	1/1608	1.0	1.0	1.0
+map04931	Insulin resistance	1	1/1608	1/1608	1.0	1.0	1.0
